@@ -1,5 +1,6 @@
-Live Demo: []
-Youtube: [https://www.youtube.com/watch?v=fxY1q4SCB64]
+> Live Demo: [https://githubjobsappreact.netlify.app/]
+
+> Youtube: [https://www.youtube.com/watch?v=fxY1q4SCB64]
 
 ## Preview: 
 
