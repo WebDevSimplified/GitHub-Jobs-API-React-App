@@ -1,3 +1,16 @@
+#### React app that works with the GitHub Jobs API that includes search, filter, pagination, etc
+
+> Live Demo: [https://githubjobsappreact.netlify.app/]
+
+> Youtube: [https://www.youtube.com/watch?v=fxY1q4SCB64]
+
+## Preview: 
+
+![Github Jobs App preview Image](public/preview.jpg)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
