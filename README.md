@@ -1,3 +1,13 @@
+Live Demo: []
+Youtube: [https://www.youtube.com/watch?v=fxY1q4SCB64]
+
+## Preview: 
+
+![Github Jobs App preview Image](public/preview.jpg)
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
