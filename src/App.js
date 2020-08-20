@@ -12,7 +12,7 @@ function App() {
 
   function handleParamChange(e) {
     const param = e.target.name
-    const value = e.target.value
+    const value = e.target.type === "checkbox" ? e.target.checked : e.target.value
     setPage(1)
     setParams(prevParams => {
       return { ...prevParams, [param]: value }
